@@ -36,5 +36,5 @@ Technical risks include insufficient data quality or quantity and model overfitt
 ## Contributors’ GitHub Profile Links:
 
 - [@alyssanew](https://github.com/alyssanew)
-- [@jeysiiiiiii] (add-your-link)
+- [@jeysiiiiiii](https://github.com/jeysiiiiiii)
 - [@ackleely](https://github.com/yourusername)
